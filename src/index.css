@@ -1,0 +1,9 @@
+html body{
+    background: linear-gradient(135deg, #ba39c870 0%, #4715db9f 100%);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 100%;
+    width: 100%;   
+    
+}
+

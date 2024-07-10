@@ -1,0 +1,41 @@
+
+.single-forecast{
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+.f-icon-min-max{
+    display: flex;
+    align-items: center;
+
+}
+.min-max{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    
+}
+.second-row{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.visibility{
+    display: flex;
+}
+.wind-speed{
+    display: flex;
+    justify-content: center;
+}
+.wind-speed p{
+    margin-top: 10px;
+}
+.third-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    border: 3px solid rgb(54, 188, 54);
+    border-radius: 20px;
+}
